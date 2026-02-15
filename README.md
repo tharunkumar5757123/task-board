@@ -1,6 +1,6 @@
 # Task Board - Frontend Internship Assignment
 
-Live Demo: https://imaginative-meringue-2a19c8.netlify.app/login
+Live Demo: https://imaginative-meringue-2a19c8.netlify.app/
 
 ## Stack
 
